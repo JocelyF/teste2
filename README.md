@@ -1,2 +1,2 @@
 # teste2
-teste de uso de GitHub
+teste de uso de GitHub desktop
